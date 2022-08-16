@@ -3,11 +3,11 @@ body {
     }
     .covidData {
     background-image: linear-gradient(to right bottom, 	#E0FFFF, #D8BFD8);
-    width: 30%;
+    width: 40%;
     margin: auto;
     margin-top: 15px;
     border-radius: 6px;
-    padding: 10px;
+    padding: 50px;
     }
 
     
